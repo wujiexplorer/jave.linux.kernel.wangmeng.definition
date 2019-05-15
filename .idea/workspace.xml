@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44dd37ff-fa19-4891-9bac-4fca8369016d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/boot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/boot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/OperatingSystemNasm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/1/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Banker/Banker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Banker/BankerDlg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Banker/Cpu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Banker/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Banker/Pcb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Document/AFD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Document/DocumentDlg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Document/MDF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Document/UFD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Memeory/MemDlg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Memeory/MemPiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Memeory/Memeory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Process/CpuTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Process/ExeJcb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Process/JCB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Process/ProDlg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/UserList.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Work/CpuTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Work/ExePcb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Work/PCB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Work/WorkDlg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/target/classes/com/wangmeng/linux/OperatingSystemNasm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/bank/BanksTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFirstLinuxKernel/javaFirstLinuxKernel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/javaFirstLinuxKernel.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaFirstLinuxKernel/target/classes/com/wangmeng/linux/OperatingSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/target/classes/com/wangmeng/linux/OperatingSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system.img" beforeDir="false" afterPath="$PROJECT_DIR$/system.img" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/javaFirstLinuxKernel/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,10 +30,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Banker/BankerDlg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4380">
+            <state relative-caret-position="-840">
               <caret line="149" column="48" selection-start-line="149" selection-start-column="48" selection-end-line="149" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -75,7 +42,23 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/bank/BanksTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="27" column="50" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -95,6 +78,7 @@
         <option value="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Process/ProDlg.java" />
         <option value="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Work/PCB.java" />
         <option value="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Work/WorkDlg.java" />
+        <option value="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/bank/BanksTest.java" />
       </list>
     </option>
   </component>
@@ -157,7 +141,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="linux" type="462c0819:PsiDirectoryNode" />
+              <item name="wangmeng" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jave.linux.kernel.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
@@ -166,63 +150,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="linux" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jave.linux.kernel.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jave.linux.kernel.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
-              <item name="javaFirstLinuxKernel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="linux" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Banker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jave.linux.kernel.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jave.linux.kernel.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
-              <item name="javaFirstLinuxKernel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="linux" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Document" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jave.linux.kernel.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jave.linux.kernel.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
-              <item name="javaFirstLinuxKernel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="linux" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Memeory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jave.linux.kernel.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jave.linux.kernel.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
-              <item name="javaFirstLinuxKernel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="linux" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Process" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jave.linux.kernel.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jave.linux.kernel.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
-              <item name="javaFirstLinuxKernel" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="linux" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Work" type="462c0819:PsiDirectoryNode" />
+              <item name="wangmeng" type="462c0819:PsiDirectoryNode" />
+              <item name="bank" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,6 +165,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
@@ -255,7 +187,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.BanksTest">
+    <configuration name="BanksTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wangmeng.bank.BanksTest" />
+      <module name="javaFirstLinuxKernel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangmeng.bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wangmeng.linux.algorithm.Main" />
       <module name="javaFirstLinuxKernel" />
@@ -271,6 +216,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BanksTest" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -285,18 +231,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557901744183</updated>
-      <workItem from="1557901748709" duration="2512000" />
+      <workItem from="1557901748709" duration="4206000" />
     </task>
+    <task id="LOCAL-00001" summary="模拟操作系统运行过程。。。。">
+      <created>1557904523220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557904523220</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4351000" />
+    <option name="totallyTimeSpent" value="6045000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1062" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25375536" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25375536" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -331,9 +285,49 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="RestServices" order="10" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25375536" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39955848" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3289183" />
+      <window_info anchor="bottom" id="Tail" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3299356" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="RestServices" order="10" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="模拟操作系统运行过程。。。。" />
+    <option name="LAST_COMMIT_MESSAGE" value="模拟操作系统运行过程。。。。" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -531,7 +525,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Banker/BankerDlg.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4380">
+        <state relative-caret-position="-840">
           <caret line="149" column="48" selection-start-line="149" selection-start-column="48" selection-end-line="149" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -539,5 +533,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/bank/BanksTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javaFirstLinuxKernel</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
