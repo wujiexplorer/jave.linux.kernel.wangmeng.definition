@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaFirstLinuxKernel/javaFirstLinuxKernel.iml" filepath="$PROJECT_DIR$/javaFirstLinuxKernel/javaFirstLinuxKernel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jave.linux.kernel.wangmeng.definition.iml" filepath="$PROJECT_DIR$/.idea/jave.linux.kernel.wangmeng.definition.iml" />
+    </modules>
+  </component>
+</project>
