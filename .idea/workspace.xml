@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44dd37ff-fa19-4891-9bac-4fca8369016d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/boot.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/third/Floppy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/third/OperatingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/fourth/Floppy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/fourth/OperatingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kernel.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot.bat" beforeDir="false" afterPath="$PROJECT_DIR$/boot.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/system.img" beforeDir="false" afterPath="$PROJECT_DIR$/system.img" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/javaFirstLinuxKernel/target/" />
@@ -19,26 +20,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/third/Floppy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="99" column="16" selection-start-line="99" selection-start-column="16" selection-end-line="99" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/third/OperatingSystem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="47" column="4" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,6 +49,7 @@
         <option value="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/linux/algorithm/Work/WorkDlg.java" />
         <option value="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/bank/BanksTest.java" />
         <option value="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/third/Floppy.java" />
+        <option value="$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/fourth/Floppy.java" />
       </list>
     </option>
   </component>
@@ -87,7 +70,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,10 +82,41 @@
               <item name="jave.linux.kernel.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
               <item name="javaFirstLinuxKernel" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jave.linux.kernel.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jave.linux.kernel.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
+              <item name="javaFirstLinuxKernel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jave.linux.kernel.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jave.linux.kernel.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
+              <item name="javaFirstLinuxKernel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jave.linux.kernel.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jave.linux.kernel.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
+              <item name="javaFirstLinuxKernel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jave.linux.kernel.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jave.linux.kernel.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
+              <item name="javaFirstLinuxKernel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wangmeng" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="CatdeaLogs" />
     </panes>
@@ -112,7 +125,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558776506738" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559226820449" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -122,6 +135,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\code\jave.linux.kernel.wangmeng.definition" />
+      <recent name="E:\code\jave.linux.kernel.wangmeng.definition\javaFirstLinuxKernel\src\main\java\com\wangmeng\fourth" />
       <recent name="E:\code\jave.linux.kernel.wangmeng.definition\javaFirstLinuxKernel\src\main\java\com\wangmeng\third" />
       <recent name="D:\code\jave.linux.kernel.wangmeng.definition\javaFirstLinuxKernel\src\main\java\com\wangmeng\linux\algorithm" />
     </key>
@@ -138,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OperatingSystem">
+  <component name="RunManager" selected="Application.OperatingSystem (1)">
     <configuration name="BanksTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wangmeng.bank.BanksTest" />
       <module name="javaFirstLinuxKernel" />
@@ -165,6 +179,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperatingSystem (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wangmeng.fourth.OperatingSystem" />
+      <module name="javaFirstLinuxKernel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangmeng.fourth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OperatingSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wangmeng.third.OperatingSystem" />
       <module name="javaFirstLinuxKernel" />
@@ -180,6 +207,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperatingSystem (1)" />
         <item itemvalue="Application.OperatingSystem" />
         <item itemvalue="Application.BanksTest" />
         <item itemvalue="Application.Main" />
@@ -197,7 +225,8 @@
       <option name="presentableId" value="Default" />
       <updated>1557901744183</updated>
       <workItem from="1557901748709" duration="4206000" />
-      <workItem from="1558757554144" duration="2381000" />
+      <workItem from="1558757554144" duration="3102000" />
+      <workItem from="1559224340234" duration="1231000" />
     </task>
     <task id="LOCAL-00001" summary="模拟操作系统运行过程。。。。">
       <created>1557904523220</created>
@@ -206,16 +235,23 @@
       <option name="project" value="LOCAL" />
       <updated>1557904523220</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="内核加载分为两个部分，一个内核加载程序，一个内核程序">
+      <created>1558782441539</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558782441539</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8426000" />
+    <option name="totallyTimeSpent" value="10378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -225,7 +261,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39934534" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.18657938" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -292,7 +328,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="模拟操作系统运行过程。。。。" />
-    <option name="LAST_COMMIT_MESSAGE" value="模拟操作系统运行过程。。。。" />
+    <MESSAGE value="内核加载分为两个部分，一个内核加载程序，一个内核程序" />
+    <option name="LAST_COMMIT_MESSAGE" value="内核加载分为两个部分，一个内核加载程序，一个内核程序" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -499,13 +536,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/third/Floppy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="99" column="16" selection-start-line="99" selection-start-column="16" selection-end-line="99" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/boot.bat">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -513,6 +543,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="47" column="4" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/third/Floppy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="99" column="16" selection-start-line="99" selection-start-column="16" selection-end-line="99" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/fourth/Floppy.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernel.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaFirstLinuxKernel/src/main/java/com/wangmeng/fourth/OperatingSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
         </state>
       </provider>
     </entry>
